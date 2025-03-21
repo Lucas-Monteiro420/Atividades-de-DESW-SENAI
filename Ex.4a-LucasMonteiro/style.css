@@ -47,7 +47,7 @@ h1, h2, h3, h4 {
     padding: 0 2rem;
 }
 
-/* Header aprimorado */
+/* Header */
 header {
     background: linear-gradient(135deg, var(--color-primary-dark), var(--color-primary));
     color: var(--color-white);
@@ -242,7 +242,7 @@ section h2::after {
     line-height: 1.8;
 }
 
-/* Cards de Filósofos */
+/* Cards */
 .cards-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
